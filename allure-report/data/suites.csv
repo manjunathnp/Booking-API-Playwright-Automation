@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Jul 16 22:52:41 IST 2024","Tue Jul 16 22:52:44 IST 2024","2746","chromium","BookingTests/createUpdateValidateBooking.test.ts","","","","Create and Update Booking-Test",""
+"passed","Tue Jul 16 22:52:41 IST 2024","Tue Jul 16 22:52:44 IST 2024","3606","chromium","BookingTests/createUpdateDeleteBookingTest.spec.ts","","","","E2E - Create Update Delete Booking-Test",""
+"passed","Tue Jul 16 22:52:41 IST 2024","Tue Jul 16 22:52:42 IST 2024","951","chromium","BookingTests/createAndValidateBookingTests.spec.ts","Create and Validate Booking Test","","","POST API Request with Dynamic Payload",""
+"passed","Tue Jul 16 22:52:42 IST 2024","Tue Jul 16 22:52:43 IST 2024","886","chromium","BookingTests/createAndValidateBookingTests.spec.ts","Create and Validate Booking Test","","","GET API Request to validate booking details",""

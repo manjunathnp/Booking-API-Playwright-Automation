@@ -1,0 +1,24 @@
+{
+  "name": "playwright-api-automation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test:booking": "npx playwright test tests/BookingTests/createAndValidateBooking.test.spec.ts",
+    "test:e2e": "npx playwright test tests/BookingTests/"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@faker-js/faker": "^8.4.1",
+    "@playwright/test": "^1.45.1",
+    "@types/luxon": "^3.4.2",
+    "@types/node": "^20.14.10",
+    "allure-commandline": "^2.29.0",
+    "allure-playwright": "^3.0.0-beta.6"
+  },
+  "dependencies": {
+    "luxon": "^3.4.4"
+  }
+}

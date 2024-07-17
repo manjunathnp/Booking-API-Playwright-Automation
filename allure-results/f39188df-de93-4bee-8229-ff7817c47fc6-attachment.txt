@@ -1,0 +1,11 @@
+{
+  bookingid: 2912,
+  booking: {
+    firstname: 'Antone',
+    lastname: 'Moshe',
+    totalprice: 111,
+    depositpaid: false,
+    bookingdates: { checkin: '2024-08-17', checkout: '2024-08-21' },
+    additionalneeds: 'Melisa'
+  }
+}
